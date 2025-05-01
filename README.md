@@ -5,8 +5,9 @@
 
 ---
 
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
+<img align="center" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
 
+---
 ### 🚀 About Me
 
 - 🔭 Currently building cool web apps with **MERN stack**
